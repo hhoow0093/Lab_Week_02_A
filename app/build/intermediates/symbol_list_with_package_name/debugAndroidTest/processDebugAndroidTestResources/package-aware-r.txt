@@ -1,0 +1,3 @@
+eu.tutorials.lab_week_02.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

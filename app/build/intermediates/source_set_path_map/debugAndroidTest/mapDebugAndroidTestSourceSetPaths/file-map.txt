@@ -1,0 +1,6 @@
+eu.tutorials.lab_week_02.test.app-tracing-1.2.0-0 C:\Users\USER\.gradle\caches\8.13\transforms\aa310e0a83ed98d573bfb08890673e13\transformed\tracing-1.2.0\res
+eu.tutorials.lab_week_02.test.app-core-1.7.0-1 C:\Users\USER\.gradle\caches\8.13\transforms\ed05be5d0825859baef23c53172fcdcd\transformed\core-1.7.0\res
+eu.tutorials.lab_week_02.test.app-androidTest-2 C:\Users\USER\AndroidStudioProjects\IF-570L-C-Mobile-application-programming\Lab_Week_02_A\app\build\generated\res\resValues\androidTest\debug
+eu.tutorials.lab_week_02.test.app-mergeDebugAndroidTestResources-3 C:\Users\USER\AndroidStudioProjects\IF-570L-C-Mobile-application-programming\Lab_Week_02_A\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+eu.tutorials.lab_week_02.test.app-mergeDebugAndroidTestResources-4 C:\Users\USER\AndroidStudioProjects\IF-570L-C-Mobile-application-programming\Lab_Week_02_A\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+eu.tutorials.lab_week_02.test.app-debugAndroidTest-5 C:\Users\USER\AndroidStudioProjects\IF-570L-C-Mobile-application-programming\Lab_Week_02_A\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
